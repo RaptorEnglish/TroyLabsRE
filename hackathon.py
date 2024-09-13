@@ -46,7 +46,7 @@ def demo_requests(node: Node):
         "Can I see a list of past testimonials?",
         "Who is this product for?",
         "Is RevSend a good business?",
-        "What gifts are best to send to a corporate client?"
+        "What gifts are best to send to a corporate client?",
         "How long does it take RevSend to deliver the gift?",
     ]
 
