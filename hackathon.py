@@ -42,10 +42,11 @@ def demo_requests(node: Node):
     records = node.get_state_var("records")
 
     requests = [
-        "I want to see a list of what gifts to send",
-        "I want to see past testimonials",
+        "What is your catalog of gifts to send?",
+        "Can I see a list of past testimonials?",
         "Who is this product for?",
         "Is RevSend a good business?",
+        "What gifts are best to send to a corporate client?"
         "How long does it take RevSend to deliver the gift?",
     ]
 
